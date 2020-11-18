@@ -16,5 +16,5 @@ footer p {text-align: center;
 padding-top: 15px;
 padding-bottom: 15px;}
 @media screen and (max-with:768px)
-{#container {width: 90%;}
+{#container width: 90%}
 h1 {font-size: 200%;}
